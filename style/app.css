@@ -1,0 +1,41 @@
+h1 {
+  font-size: 42px;
+  padding-top: 20px;
+}
+h2 {
+  font-size: large;
+}
+h3 {
+  font-size: 15px;
+}
+ul {
+  list-style: none;
+  text-align: center;
+  margin-right: 30px;
+  padding-top: 20px;
+}
+button {
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+  margin-left: 5px;
+}
+a {
+  text-decoration: none;
+  color: #a2678a;
+}
+.container {
+  font-family: "Montserrat", sans-serif;
+}
+.card {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+  top: 125px;
+  border-width: 5px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+.main-icon {
+  width: 120px;
+}
+.icons {
+  width: 55px;
+}
