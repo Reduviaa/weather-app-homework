@@ -39,3 +39,11 @@ a {
 .icons {
   width: 55px;
 }
+
+.link-source {
+  text-decoration: none;
+  color: #a2678a;
+}
+.open-source-code {
+  margin: 130px 450px;
+}
